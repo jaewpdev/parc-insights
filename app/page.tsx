@@ -7,7 +7,7 @@ import CarouselImageSection from "@/src/components/CarouselImageSection";
 
 function HeroSection() {
   return (
-    <div className="flex flex-col items-center pt-[10vh] mb-20">
+    <div className="flex flex-col items-center pt-[10vh] mb-20 overflow-x-hidden">
       <GridBackground className="absolute top-0 -z-20" />
       <h1 className="text-5xl sm:text-6xl text-center font-medium tracking-tighter leading-tight mb-4">
         Let&apos;s keep it{" "}
