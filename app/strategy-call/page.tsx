@@ -21,14 +21,14 @@ export default function StrategyCall() {
     <div>
       {/* Embedding the iframe */}
       <iframe
-        src="https://api.leadconnectorhq.com/widget/booking/lvJ7zPdfzisKgAJMXAqr"
+        src="https://api.leadconnectorhq.com/widget/booking/ZJ2LMnad8ljTvXZnv07m"
         style={{
           width: "100%",
           border: "none",
           overflow: "hidden",
         }}
         scrolling="no"
-        id="lvJ7zPdfzisKgAJMXAqr_1712089128667"
+        id="KA0G56RkQzx0abbKjUmA_1712156961209"
       ></iframe>
     </div>
   );
